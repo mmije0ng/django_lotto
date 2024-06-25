@@ -1,16 +1,18 @@
-# site_1/settings.py
+site_1/settings.py
 
-# *.log
+*.log
 
-# *.pot
+*.pot
 
-# *.pyc
+*.pyc
 
-# lotto/__pycache__
-# # lotto/migrations
+lotto/__pycache__
+# lotto/migrations
 
-# local_settings.py
+local_settings.py
 
-# db.sqlite3
+db.sqlite3
 
-# db.sqlite3-journal media
+db.sqlite3-journal media
+
+static
