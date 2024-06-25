@@ -1,0 +1,16 @@
+site_1/settings.py
+
+*.log
+
+*.pot
+
+*.pyc
+
+lotto/__pycache__
+# lotto/migrations
+
+local_settings.py
+
+db.sqlite3
+
+db.sqlite3-journal media
